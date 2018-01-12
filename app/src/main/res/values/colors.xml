@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="fire_brick_red">#B0171F</color>
+    <color name="RoyalBlue">#4169E1</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="YellowGreen">#9ACD32</color>
+    <color name="OrangeRed">#FF4500</color>
+    <color name="White">#FFFFFF</color>
+    <color name="LightYellow">#FFFFE0</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="Orange_DarkOrange">#FF8C00</color>
+    <color name="blue">#0000FF</color>
+    <color name="skyblue">#0191d8</color>
+    <color name="pink">#f7464a</color>
+    <color name="voilet">#511c7d</color>
+    <color name="red">#ff0000</color>
+    <color name="lavender">#9677b1</color>
+    <color name="orange">#EF854B</color>
+    <color name="dark_pink">#cc1075</color>
+    <color name="green">#008000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="Magenta">#FF00FF</color>
+    <color name="Black">#000000</color>
+    <color name="NiceBlue">#59C7FA</color>
+    <color name="sim_light_blue">#819FF7</color>
+    <color name="dark_blue">#0B0B61</color>
+    <color name="grey">#dcdcdc</color>
+</resources>
